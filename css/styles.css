@@ -1,0 +1,197 @@
+body {
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+.hero-img {
+    width: 540px;
+    height: 540px;
+}
+
+/* .hero-div {
+    width: 540px;
+    height: 540px;
+} */
+
+.first-div {
+    padding: 6% 10%;
+}
+
+h1 {
+    font-weight: 600;
+    margin-bottom: 24px;
+    /* width:540; */
+}
+
+.para {
+    margin: 0 0;
+}
+
+.first-para {
+    font-size: 14px;
+    line-height: 1.4;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin-bottom: 32px;
+}
+
+.second-div {
+    text-align: center;
+    background-color: #F5F5F5;
+    padding-top: 4%;
+}
+
+.third-div {
+    padding:3% 10%;
+    background-color: #F5F5F5;
+}
+
+/* .third-div-carousel {
+
+} */
+
+.third-div-img {
+    width: 360px;
+    height: 360px;
+    margin-bottom: 48px;
+}
+
+h4 {
+    font-weight: 700;
+}
+
+.fourth-div {
+    text-align: center;
+    background-color: #F5F5F5;
+    padding-bottom: 4%;
+}
+
+.fifth-div-img {
+    width: 540px;
+    height: 540px;
+}
+
+.fifth-div-right-block {
+    padding-left: 10%;
+    padding-top: 8%;
+    text-align: left;
+}
+
+.fifth-div-left-block {
+    padding-left: 10%;
+}
+
+.sixth-div-img {
+    width: 540px;
+    height: 540px;
+    padding-top:10%;
+    padding-left:20%;
+    padding-bottom: 10%;
+}
+
+.sixth-div-right-block {
+    padding-left: 10%;
+}
+
+.sixth-div-left-block {
+    padding-left: 10%;
+    padding-top: 8%;
+    text-align: left;
+}
+
+.seventh-div {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 120px 185.2px;
+}
+
+.seventh-internal-div {
+    width: 1200px;
+    height: 200px;
+}
+
+.seventh-div-img {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
+
+.seventh-div-img1 {
+    display: inline-block;
+    width: 200px;
+    height: 640x;
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
+
+.google-img {
+    width: 20px;
+    height: 20px;
+}
+
+.eight-div {
+    text-align: center;
+}
+
+input {
+    width: 336px;
+    height: 40px;
+    margin-top: 2%;
+}
+
+.custom-button {
+    width: 336px;
+    height: 48px;
+    margin: 2% 0;
+}
+
+.eight-div-subclass {
+    /* width: 336px;
+    height: 52.8px; */
+    position: relative;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 5%;
+}
+
+.eight-div {
+    padding-top: 5%;
+}
+
+.ninth-div-img {
+    width: 73px;
+    height: 26px;
+}
+
+.ninth-div {
+    padding: 5% 0%;
+}
+
+.ninth-div-subdivs {
+    padding: 0 3%;
+}
+
+h6 {
+    padding-left: 40px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 4px 0;
+}
+
+.ninth-div-logos {
+    width: 16px;
+    height: 16px;
+}
+
+.ninth-div-img {
+    margin-left: 40px;
+}
